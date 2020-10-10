@@ -1,0 +1,12 @@
+staff.disrespect.1.ban
+Spam.10.kick
+Words
+Nigger: Please do not use Racist Terms in chat.
+WhiteTrash: Please do not use Racist Terms in chat.
+1hMute.Spam.15
+staffdisrespect.3.pmute
+Words
+Nigger.3.1dmute: You have been muted for using racist terms in chat.
+WhiteTrash.3.1dmute: You have been muted for using racist terms in chat.
+warn.spam.5: Please do not spam!
+warn.cusswords.*: Please do not use swear words in chat!

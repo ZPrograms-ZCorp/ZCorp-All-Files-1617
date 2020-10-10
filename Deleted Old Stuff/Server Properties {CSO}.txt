@@ -1,0 +1,10 @@
+auto kick spam: true
+auto ban too much spam: true
+Server Name: ItzTc's Server
+Description of Server: This server is a server for everyone, it is open to everyone so if anyone wants to chat they can.
+Public: Yes
+Whitelisted users: ItzTc ApexCode Braden OPS
+Muted Players:
+Banned Players:
+Opped Players: ItzTc
+Whitelist: off
