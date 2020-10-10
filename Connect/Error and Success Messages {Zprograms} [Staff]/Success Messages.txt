@@ -1,0 +1,1 @@
+If player connected to server successfuly say @p [Successfuly joined the server.]
