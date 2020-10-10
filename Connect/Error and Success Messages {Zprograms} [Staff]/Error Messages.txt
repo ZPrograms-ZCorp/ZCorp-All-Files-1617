@@ -1,5 +1,0 @@
-If cannot connect to server for unknown reason tell @p say [Sorry we could not connect to the server for some reason.]
-If cannot connect to server because Server ID is invalid tell @p say [Server ID invalid please check the server ID to make sure it is the one for the server you want to join.]
-If cannot connect to server because Server name is invalid tell @p say [You listed a unknown Server, please make sure it is correct.]
-If cannot connect to server because Server IP is invalid tell @p say [The Server IP that you listed is unknown, make sure goes with the Server name and ID that you listed.]
-If cannot connect to server because server is down tell @p say [The server you tried to connect to is currently down, try again later.]
