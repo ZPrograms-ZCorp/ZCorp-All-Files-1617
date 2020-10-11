@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
-	<c:CreationDate>2017-04-10T15:49:30Z</c:CreationDate><c:Extended xsi:nil="true"/>
-	<c:ContactIDCollection><c:ContactID c:ElementID="f30eca37-f8b4-4b81-bd2d-8da95c9fbb05"><c:Value>0df1acf1-e301-456f-b3cf-d98a2a74094f</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="95a04912-d0d3-4c1e-9201-d0e5c3cf0e6b"><c:FormattedName>Game Officer</c:FormattedName><c:MiddleName>Officer</c:MiddleName><c:GivenName>Game</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="272fa2d3-0053-4a63-be41-edfdb2bf3ffc"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
