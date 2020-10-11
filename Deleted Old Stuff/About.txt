@@ -1,5 +1,0 @@
-CHAP means chapter
-SEC means Section
-QUAR means Quarter
-SEME means Semester
-NWEA means nwea
